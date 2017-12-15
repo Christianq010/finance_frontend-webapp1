@@ -2,3 +2,8 @@ nbproject
 npm-debug.log
 node_modules
 .sass-cache
+
+#folders to ignore
+documentation
+vendors/
+vendors/bootstrap/
