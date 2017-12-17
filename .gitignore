@@ -4,6 +4,6 @@ node_modules
 .sass-cache
 
 #folders to ignore
-documentation
+documentation/
 vendors/
 vendors/bootstrap/
